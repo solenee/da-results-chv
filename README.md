@@ -5,8 +5,8 @@
 - Inside da-results-chv folder, clone distributional-analysis from https://github.com/solenee/distributional-analysis.git
 - Add in distributional-analysis two directories named respectively IN and OUTPUT
 - In make.sh,
-* update TREETAGGER_DIR
-* for runing time consideration, set CORPUS_NAME to "poc"
+1) update TREETAGGER_DIR
+2) for runing time consideration, set CORPUS_NAME to "poc"
 
 ## Run
 - Run make.sh script
